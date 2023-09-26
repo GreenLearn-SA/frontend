@@ -82,11 +82,9 @@
   right: 30px;
   height: 60px;
   width: 60px;
-  background: white;
   /* border-radius: 10px; */
   padding: 10px;
   transform: translate3d(0px, 0px, 80px);
-  box-shadow: rgba(100, 100, 111, 0.2) 0px 17px 10px -10px;
   display: flex;
 }
 
