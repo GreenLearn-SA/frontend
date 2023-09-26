@@ -1,0 +1,16 @@
+.containerPart {
+  padding: 5%;
+  display: flex; 
+  align-items: center; 
+  justify-content: center; 
+  flex-direction: column;
+}
+
+.containerCard{
+  width:80% !important ;
+  display: grid;
+  grid-template-columns: repeat(3 , 1fr);
+  grid-template-row: repeat(2 , 1fr);
+  grid-column-gap: 5%;
+  grid-row-gap: 5%;
+}
