@@ -7,6 +7,9 @@
   padding: 2%;
   background-color: #80D44B ; 
 }
+.ttlHdr{
+  color: #fff !important;
+}
 .fotoHeader{
   box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
   border-radius: 50%;

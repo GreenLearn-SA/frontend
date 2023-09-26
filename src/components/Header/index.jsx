@@ -6,7 +6,7 @@ export default function Header() {
   return (
     <div className="containerHeader">
       <img className="fotoHeader" src={Logo} alt="GreenLearn" />
-      <h1>GreenLearn</h1>
+      <h1 className="ttlHdr">GreenLearn</h1>
       <div class="cardHeader">
         {/* instagram */}
         <a href="#" class="socialContainer containerOne">

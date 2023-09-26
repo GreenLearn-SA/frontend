@@ -44,8 +44,8 @@ export default function Participantes() {
         />
         <Card
           nome="Kauã"
-          conteudo="Viciado em League of Legends"
-          imagem="https://pbs.twimg.com/media/EWi_2TiXkAE8XXD?format=jpg&name=large"
+          conteudo="Manco"
+          imagem="https://i.pinimg.com/736x/96/94/fb/9694fb2530f6ae4a1e7b53ac8d395a48.jpg"
           corDeFundo="#f0f"
           linkGit="https://github.com/kauaeduardog"
         />
