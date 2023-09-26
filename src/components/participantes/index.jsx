@@ -23,7 +23,7 @@ export default function Participantes() {
         />
         <Card
           nome="Daniel"
-          conteudo="O cara é literalmente o steve do minecraft"
+          conteudo="O cara é literalmente o steve"
           imagem="https://fantasiasimportadasusa.com/wp-content/uploads/2021/02/M%C3%A1scara-facial-Minecraft-Steve-para-adultos.jpg"
           corDeFundo="#555"
           linkGit="https://github.com/fanilinho22"
