@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.father{
+  overflow-x: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #fff;
+}
+
+p , h1 , h2 {
+  color: #71A42A ;
+}
+

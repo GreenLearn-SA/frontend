@@ -23,9 +23,9 @@ export default function Participantes() {
         />
         <Card
           nome="Daniel"
-          conteudo="O cara é literalmente o steve do minecraft"
+          conteudo="O cara é literalmente o steve"
           imagem="https://fantasiasimportadasusa.com/wp-content/uploads/2021/02/M%C3%A1scara-facial-Minecraft-Steve-para-adultos.jpg"
-          corDeFundo="#000"
+          corDeFundo="#555"
           linkGit="https://github.com/fanilinho22"
         />
         <Card
@@ -44,8 +44,8 @@ export default function Participantes() {
         />
         <Card
           nome="Kauã"
-          conteudo="Viciado em League of Legends"
-          imagem="https://pbs.twimg.com/media/EWi_2TiXkAE8XXD?format=jpg&name=large"
+          conteudo="Manco"
+          imagem="https://i.pinimg.com/736x/96/94/fb/9694fb2530f6ae4a1e7b53ac8d395a48.jpg"
           corDeFundo="#f0f"
           linkGit="https://github.com/kauaeduardog"
         />
